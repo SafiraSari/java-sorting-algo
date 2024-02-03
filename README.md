@@ -1,5 +1,5 @@
 # java-sorting-algo
-> Coding various sorting algorithms in Java - includes notes. Referred to UDEMY course `Data Structures and Algorithms: Deep Dive Using Java`.
+> Coding various sorting algorithms in Java - includes notes of the attributes of each sorting algorithm.
 
 ## Sorting Algorithms Included
 - `bubble sort`
@@ -9,3 +9,6 @@
 - `quicksort`
 - `selection sort`
 - `shell sort`
+
+## Reference
+UDEMY course `Data Structures and Algorithms: Deep Dive Using Java` (2023)
